@@ -18,5 +18,5 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa-leo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
+![snake gif](https://github.com/lisboa-leo/lisboa-leo/blob/output/github-contribution-grid-snake.svg)
 
