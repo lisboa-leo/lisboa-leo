@@ -1,4 +1,4 @@
-### Olá! Me chamo Leonardo Lisboa 👋
+### Olá! Meu nome é Leonardo Lisboa 👋
 
 
 🏫 Atualmente estou estudando no ITB, cursando T.I. <br/>
