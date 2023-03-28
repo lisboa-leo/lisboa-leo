@@ -1,14 +1,20 @@
-### Olá! Meu nome é Leonardo Lisboa 👋
+## Olá! Meu nome é Leonardo Lisboa 👋
 
 
-🏫 Atualmente estou estudando no ITB, cursando T.I. <br/>
+🏫 Atualmente estou estudando no ITB, cursando Técnico em informática <br/>
  💻 Estou aprendendo diversar linguagens, tais como: 
  <img  align="right" height="175" wight="175" src="https://user-images.githubusercontent.com/106418023/182505679-a8957749-e38b-4b98-b2ef-5294fd0ebf69.png" />
 - <img align="center" alt="lisboa-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
 - <img align="center" alt="lisboa-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 - <img align="center" alt="lisboa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img aling="center" alt="lisboa-Ja" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
-- <img align="center" alt="lisboa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Phyton 
+- <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> C# 
+- <img align="center" alt="lisboa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Phyton
+### FrameWorks
+
+-  <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> Bootstrap 
+- <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery 
+
 
  💻 Ainda pretendo estudar mais linguagens e continuar em constante evolução no ramo da tecnologia. <br />
 <div align="left">
