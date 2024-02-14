@@ -22,5 +22,10 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa-leo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![snake gif](https://github.com/lisboa-leo/lisboa-leo/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lisboa-leo/lisboa-leo/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
