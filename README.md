@@ -12,7 +12,7 @@
 ### FrameWorks
 
 -  <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> Bootstrap 
-- <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery 
+- <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery
 
 
  💻 Ainda pretendo estudar mais linguagens e continuar em constante evolução no ramo da tecnologia. <br />
