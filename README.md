@@ -9,10 +9,17 @@
 - <img align="center" alt="lisboa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img aling="center" alt="lisboa-Ja" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
 - <img align="center" alt="lisboa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Phyton
+- <img align="center" alt="lisboa-Python" height="25" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"> Android - Java
 ### FrameWorks
 
--  <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> Bootstrap 
-- <img align="center" alt="lisboa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery
+-  <img align="center" alt="lisboa-bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> Bootstrap 
+- <img align="center" alt="lisboa-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery
+- <img align="center" alt="lisboa-django" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"> Django
+
+### Base de Dados
+
+- <img align="center" alt="lisboa-django" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> SQL
+- <img align="center" alt="lisboa-django" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> MySQL
 
 
  💻 Ainda pretendo estudar mais linguagens e continuar em constante evolução no ramo da tecnologia. <br />
