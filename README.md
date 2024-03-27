@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Leonardo Lisboa 👋
 
 
-🏫 Atualmente estou estudando no ITB, cursando Técnico em informática <br/>
+🏫 Atualmente estou estudando no ITB, cursando o 3º Ano Técnico em informática <br/>
  💻 Estou aprendendo diversar linguagens, tais como: 
  <img  align="right" height="175" wight="175" src="https://user-images.githubusercontent.com/106418023/182505679-a8957749-e38b-4b98-b2ef-5294fd0ebf69.png" />
 - <img align="center" alt="lisboa-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
