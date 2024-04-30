@@ -15,6 +15,7 @@
 -  <img align="center" alt="lisboa-bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> Bootstrap 
 - <img align="center" alt="lisboa-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery
 - <img align="center" alt="lisboa-django" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"> Django
+- <img align="center" alt="lisboa-react" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" > React
 ### Mobile
 
 - <img align="center" alt="lisboa-reactNative" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" > React Native
