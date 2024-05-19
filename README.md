@@ -9,7 +9,6 @@
 - <img align="center" alt="lisboa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img aling="center" alt="lisboa-Ja" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
 - <img align="center" alt="lisboa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Phyton
-- <img align="center" alt="lisboa-TypeScript" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
 ### FrameWorks
 
 -  <img align="center" alt="lisboa-bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> Bootstrap 
@@ -18,9 +17,7 @@
 - <img align="center" alt="lisboa-react" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" > React
 ### Mobile
 
-- <img align="center" alt="lisboa-reactNative" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" > React Native
 - <img align="center" alt="lisboa-androidJava" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" > Android - Java
-- <img align="center" alt="lisboa-dart" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" > Dart
 
 ### Base de Dados
 
