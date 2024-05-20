@@ -16,6 +16,7 @@
 - <img align="center" alt="lisboa-django" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"> Django
 - <img align="center" alt="lisboa-react" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" > React
 - <img align="center" alt="lisboa-react" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/vite/vite.png" > Vite
+- <img align="center" alt="lisboa-react" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" > Spring Boot
 ### Mobile
 
 - <img align="center" alt="lisboa-androidJava" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" > Android - Java
