@@ -8,12 +8,10 @@
 - <img align="center" alt="lisboa-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 - <img align="center" alt="lisboa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img aling="center" alt="lisboa-Ja" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
-- <img align="center" alt="lisboa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Phyton
 ### FrameWorks
 
 -  <img align="center" alt="lisboa-bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"> Bootstrap 
 - <img align="center" alt="lisboa-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> JQuery
-- <img align="center" alt="lisboa-django" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"> Django
 - <img align="center" alt="lisboa-react" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" > React
 - <img align="center" alt="lisboa-react" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/vite/vite.png" > Vite
 - <img align="center" alt="lisboa-react" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" > Spring Boot
