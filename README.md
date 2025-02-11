@@ -1,7 +1,8 @@
 ## Olá! Meu nome é Leonardo Lisboa 👋
 
 
-🏫 Ensino Técnico Integrado na área de informática, finalizado (ITB - Brasílio Flores de Azevedo). Aqui está o meu projeto integrador: https://optmed.com.br/ <br/>
+🏫 Ensino Técnico Integrado na área de informática, finalizado (ITB - Brasílio Flores de Azevedo) <br/>
+<img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" height="25" width="25" /> Aqui está o meu projeto integrador desenvolvido no ITB: https://optmed.com.br <br/> 
 <img src="https://cdn-icons-png.flaticon.com/512/8074/8074800.png" height="25" width="25" /> Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP <br/>
  💻 Estou aprendendo diversar linguagens, tais como: 
  <img  align="right" height="175" wight="175" src="https://user-images.githubusercontent.com/106418023/182505679-a8957749-e38b-4b98-b2ef-5294fd0ebf69.png" />
