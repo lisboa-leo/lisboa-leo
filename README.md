@@ -4,7 +4,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/8074/8074788.png" height="25" width="25" /> Ensino Técnico Integrado na área de informática, finalizado (ITB - Brasílio Flores de Azevedo) <br/>
 <img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" height="25" width="25" /> Aqui está o meu projeto integrador desenvolvido no ITB: https://optmed.com.br <br/> 
 <img src="https://cdn-icons-png.flaticon.com/512/8074/8074800.png" height="25" width="25" /> Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP <br/>
- 💻 Estou aprendendo diversar linguagens, tais como: 
+ 💻 Possuo experiência em tais linguagens: 
  <img  align="right" height="175" wight="175" src="https://user-images.githubusercontent.com/106418023/182505679-a8957749-e38b-4b98-b2ef-5294fd0ebf69.png" />
 - <img align="center" alt="lisboa-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
 - <img align="center" alt="lisboa-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
